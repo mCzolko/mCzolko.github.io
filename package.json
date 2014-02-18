@@ -1,0 +1,21 @@
+{
+  "name": "mCzolko.github.io",
+  "version": "0.0.1",
+  "description": "Personal page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mCzolko/mCzolko.github.io.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/mCzolko/mCzolko.github.io/issues"
+  },
+  "devDependencies": {
+    "express": "~3.4.8"
+  }
+}
