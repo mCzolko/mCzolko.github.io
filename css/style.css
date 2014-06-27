@@ -2085,13 +2085,13 @@ ul.items {
 .resume .experience ul.timeline > li .date {
 	position: relative;
 	float: left;
-	left: -220px;
+	left: -235px;
 	top: 37px;
 	line-height: 1;
 	height: 0;
 	display: block;
 	text-align: right;
-	width: 120px;
+	width: 135px;
 	color: #fff;
 	font-size: 18px
 }
