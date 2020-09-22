@@ -621,3 +621,7 @@ form .glyphicon {
 	margin-bottom: 100px;
     cursor: pointer;
 }
+
+.mute {
+    opacity: 0.5;
+}
